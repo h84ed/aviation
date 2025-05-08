@@ -1,0 +1,4 @@
+include README.md
+include setup.py
+recursive-include aviation *.json *.py *.js *.html *.css
+recursive-include aviation/public *
